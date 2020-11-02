@@ -5,6 +5,6 @@ By creating a new campaing, the owner can specify the topic and contents of the 
 The application utilises Stripe sandbox API to mimic live payments for credits, which are needed to start a new campaign. 
 In order to make a payment, make use of the following information:
 
-Email: anything (e.g. test@gmail.com)
+Email: anything (e.g. test@gmail.com) <br>
 Card number: 4242 4242 4242 4242
 
